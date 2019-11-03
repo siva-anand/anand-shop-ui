@@ -120,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "anand-shop-ui"
+    }
+  },
+  "defaultProject": "anand-shop-ui",
+  "cli": {
+    "defaultCollection": "@nativescript/schematics"
+  }
 }
